@@ -25,8 +25,5 @@ DIGITAL LITERACY QUIZ
    - WhatsApp  
    - YouTube  
 
-5. Why is digital literacy important?  
-   - To stay safe online and use technology effectively   
-   - Only for entertainment  
-   - Only for gaming  
-   - Not important  
+5. What is the password sent to your phone for verification called?
+   ans-OTP
