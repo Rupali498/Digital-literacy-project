@@ -26,4 +26,5 @@ DIGITAL LITERACY QUIZ
    - YouTube  
 
 5. What is the password sent to your phone for verification called?
+
    ans-OTP
