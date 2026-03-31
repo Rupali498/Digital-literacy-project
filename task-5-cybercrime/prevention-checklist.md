@@ -11,6 +11,6 @@
 - Regularly update your apps and devices to stay protected from security threats  
 - Log out from accounts when using shared or public devices  
 
-### 📞 Reporting Cybercrime
+### Reporting Cybercrime
 - National Cyber Crime Portal: https://cybercrime.gov.in  
 - Helpline Number: 1930
